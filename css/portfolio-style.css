@@ -257,6 +257,20 @@ strong {
   position: relative;
 }
 
+.project-info {
+  padding: 0;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.project-info-img {
+  width: 100%;
+  max-width: 800px;
+  height: 100%;
+  max-height: 600px;
+  box-shadow: 0 0 8px 5px #dbdbdb;
+}
+
 .copyright-text {
   font-size: 16px;
   font-weight: normal;
