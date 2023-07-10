@@ -258,9 +258,7 @@ strong {
 }
 
 .project-info {
-  padding: 0;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding: 50px;
 }
 
 .project-info-img {
@@ -536,6 +534,12 @@ strong {
   }
 }
 @media (max-width: 580px) {
+  .project-info {
+    padding: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
   .animated-info {
     min-width: 200px;
   }
